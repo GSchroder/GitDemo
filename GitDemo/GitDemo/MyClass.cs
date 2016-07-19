@@ -10,6 +10,6 @@ namespace GitDemo
     {
         public int Id { get; set; }
         public string NameMaster { get; set; }
-        public string Email { get; set; }
+        public string EmailDemo1 { get; set; }
     }
 }
