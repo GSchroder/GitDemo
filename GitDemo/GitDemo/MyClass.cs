@@ -9,11 +9,7 @@ namespace GitDemo
     public class MyClass
     {
         public int Id { get; set; }
-<<<<<<< HEAD
         public string NameMaster { get; set; }
-=======
-        public string NameFeature2 { get; set; }
->>>>>>> feature2
         public string Email { get; set; }
     }
 }
